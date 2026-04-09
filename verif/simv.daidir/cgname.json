@@ -1,0 +1,38 @@
+{
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "mem_top": [
+        "mem_top",
+        "IcnFZ",
+        "module",
+        2
+    ],
+    "timer_counter": [
+        "timer_counter",
+        "MCCuQ",
+        "module",
+        3
+    ],
+    "soc_integration": [
+        "soc_integration",
+        "GLqm9",
+        "module",
+        4
+    ],
+    "data_memory": [
+        "data_memory",
+        "ZQEUT",
+        "module",
+        5
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        6
+    ]
+}
