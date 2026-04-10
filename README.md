@@ -54,7 +54,10 @@ It demonstrates:
 ---
 
 ## Author's 
-**Karthiswaran R**
-**Hari Kesavaraj K**
+**KARTHISWARAN R**<br>
+**HARI KESAVARAJ J**
+**LOGESH C**
+**ADHITHYA D**
+**HARANI K**
 B.E Electronics Engineering (VLSI Design & Technology)
 K. S. Rangasamy College of Technology 
