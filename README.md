@@ -53,7 +53,8 @@ It demonstrates:
 
 ---
 
-## Author
-**Karthiswaran R**  
+## Author's 
+**Karthiswaran R**
+**Hari Kesavaraj K**
 B.E Electronics Engineering (VLSI Design & Technology)
 K. S. Rangasamy College of Technology 
