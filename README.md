@@ -27,7 +27,8 @@ It demonstrates:
 - Instruction ROM  
 - Data RAM  
 - Address Decoder  
-- AHB & Bridge  
+- AHB Bus
+- AHB to APB Bridge  
 
 ### Peripherals
 - GPIO  
