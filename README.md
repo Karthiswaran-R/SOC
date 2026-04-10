@@ -43,3 +43,17 @@ It demonstrates:
 - Clock & Reset Generator  
 
 ---
+
+## Future Improvements
+- Pipeline CPU design  
+- Cache integration  
+- AXI/AHB Bus  
+- DMA Controller  
+- Advanced Debugging  
+
+---
+
+## Author
+**Karthiswaran R**  
+B.E Electronics Engineering (VLSI Design & Technology)
+K. S. Rangasamy College of Technology 
